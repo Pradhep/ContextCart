@@ -1,0 +1,1 @@
+Increasing or Decreasinig of Quantity and Price and Total price of the items in cart. Code using the useContext logic
